@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Mohamed Remmache
-###- 🔭 I’m currently working on Banking Management System on Java 8 ♨️
-###- 🌱 I’m currently learning Angular 🅰️ & also Preparing my Master's degree at the French School 🔵⚪🔴 on Dev Manager Full Stack in Paris 🗼
-###- 👯 I’m looking for my 12 months apprenticeship 👨🏻‍🎓💼
-###- 🤔 I’m looking for help with becoming a good developper 🧑🏻‍💻
-###- 💬 Ask me about : any
-###- 📫 How to reach me: mohamedremmache@outlook.fr
-###- ⚡ Fun fact: 0.1 + 0.2 =/= 0.3
+### 🔭 I’m currently working on Banking Management System on Java 8 ♨️
+### 🌱 I’m currently learning Angular 🅰️ & also Preparing my Master's degree at the French School 🔵⚪🔴 on Dev Manager Full Stack in Paris 🗼
+### 👯 I’m looking for my 12 months apprenticeship 👨🏻‍🎓💼
+### 🤔 I’m looking for help with becoming a good developper 🧑🏻‍💻
+### 💬 Ask me about : any
+### 📫 How to reach me: mohamedremmache@outlook.fr
+### ⚡ Fun fact: 0.1 + 0.2 =/= 0.3
 
 
 <!--
