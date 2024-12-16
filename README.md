@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mohamed Remmache
-### 💻 I’m a full stack developer at LaLaChante, working on an intern APP with PHP, Lavavel, Tailwind CSS  💻
-### 🌱 I’m currently learning Angular 🅰️ & also Preparing my Master's degree at the French School 🔵⚪🔴 on Dev Manager Full Stack in Paris 🗼
-### 👯 I’m looking for my 12 months apprenticeship 👨🏻‍🎓💼
+### 💻 I’m a full stack developer at Guitilab, working on an intern APP 💻
+### 🌱 I’m currently learning Angular 🅰️ & also Preparing my Master's degree at the French School 🔵⚪🔴
+### on Dev Manager Full Stack in Paris 🗼
 ### 🤔 I’m becoming a better developper 🧑🏻‍💻
 ### 💬 Ask me about : any
 ### 📫 How to reach me: mohamedremmache@outlook.fr
